@@ -50,7 +50,7 @@ Output
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-14T05:43:23.490Z  
+**Submitted:** 2026-10-14T05:43:42.110Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -58,7 +58,7 @@ using namespace std;
 
 int main() {
 	int t;
-	con>>t;
+	cin>>t;
 	while(t--){
 	    float n,x;
 	    cin>>n>>x;
